@@ -7,7 +7,7 @@ import wget
 from database import database
 
 #OpenAI Settings
-api_key = "sk-EJ5WHbYPpXuEpqqX3DOWzUDobxAT3Z6fYfUQHM87_DT3BlbkFJOMIbnG9h61jLZF1Ju3DCauH3oeUhl1LqPKaGHgZq4A"
+api_key = ""
 client = OpenAI(api_key=api_key)
 
 #Encode Image in base64
